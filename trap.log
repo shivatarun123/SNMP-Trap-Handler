@@ -1,0 +1,107 @@
+new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "bth"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 3
+192.168.0.9 50162 public3 loop 
+"bth" 1490259330 1490255404 1490255405 
+1.3.6.1.4.1.41717.20.1 4 "bth" 1.3.6.1.4.1.41717.20.2 66 1490259330 1.3.6.1.4.1.41717.20.3 2 1490255404 1.3.6.1.4.1.41717.20.4 66 1490255405 
+trap sentTrap recieved at Thu Mar 23 09:55:30 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "rm"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 3
+192.168.0.9 50162 public3 loop 
+"rm" 1490259357 0 0 
+1.3.6.1.4.1.41717.20.1 4 "rm" 1.3.6.1.4.1.41717.20.2 66 1490259357 1.3.6.1.4.1.41717.20.3 2 0 1.3.6.1.4.1.41717.20.4 66 0 
+trap sentTrap recieved at Thu Mar 23 09:55:57 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "rm"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 3
+192.168.0.9 50162 public3 loop 
+"rm" 1490259548 0 0 
+1.3.6.1.4.1.41717.20.1 4 "rm" 1.3.6.1.4.1.41717.20.2 66 1490259548 1.3.6.1.4.1.41717.20.3 2 0 1.3.6.1.4.1.41717.20.4 66 0 
+trap sentTrap recieved at Thu Mar 23 09:59:08 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "bth"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 0
+192.168.0.9 50162 public 
+no var to send trap
+Trap recieved at Thu Mar 23 10:21:51 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "bubbly.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 1
+10.1.0.184 162 public 
+no var to send trap
+Trap recieved at Thu Mar 23 10:31:00 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "TROUBLE.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 1
+10.1.0.184 162 public 
+no var to send trap
+Trap recieved at Thu Mar 23 10:31:04 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "www.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 3
+10.1.0.184 162 public3 loop 
+"www.bth.se" 1490261488 0 0 
+1.3.6.1.4.1.41717.20.1 4 "www.bth.se" 1.3.6.1.4.1.41717.20.2 66 1490261488 1.3.6.1.4.1.41717.20.3 2 0 1.3.6.1.4.1.41717.20.4 66 0 
+trap sentTrap recieved at Thu Mar 23 10:31:28 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "www.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 0
+10.1.0.184 162 public 
+no var to send trap
+Trap recieved at Thu Mar 23 10:31:56 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "bubbly.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 2
+10.1.0.184 162 publicin if loop 2
+2 loop 
+ 
+no var to send trap
+Trap recieved at Thu Mar 23 10:32:06 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "TROUBLE.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 2
+10.1.0.184 162 publicin if loop 2
+2 loop 
+1.3.6.1.4.1.41717.30.1 4 "bubbly.bth.se" 1.3.6.1.4.1.41717.30.2 66 1490261526 1.3.6.1.4.1.41717.30.3 2 1 1.3.6.1.4.1.41717.30.4 66 1490261460 1.3.6.1.4.1.41717.30.5 4 "TROUBLE.bth.se" 1.3.6.1.4.1.41717.30.6 66 1490261535 1.3.6.1.4.1.41717.30.7 2 1 1.3.6.1.4.1.41717.30.8 66 1490261464 
+trap sentTrap recieved at Thu Mar 23 10:32:15 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "www.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 2
+10.1.0.184 162 publicin if loop 2
+2 loop 
+1.3.6.1.4.1.41717.30.1 4 "bubbly.bth.se" 1.3.6.1.4.1.41717.30.2 66 1490261526 1.3.6.1.4.1.41717.30.3 2 1 1.3.6.1.4.1.41717.30.4 66 1490261460 1.3.6.1.4.1.41717.30.5 4 "TROUBLE.bth.se" 1.3.6.1.4.1.41717.30.6 66 1490261535 1.3.6.1.4.1.41717.30.7 2 1 1.3.6.1.4.1.41717.30.8 66 1490261464 1.3.6.1.4.1.41717.30.9 4 "www.bth.se" 1.3.6.1.4.1.41717.30.10 66 1490261565 1.3.6.1.4.1.41717.30.11 2 0 1.3.6.1.4.1.41717.30.12 66 1490261516 
+trap sentTrap recieved at Thu Mar 23 10:32:45 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "www.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 1
+10.1.0.184 162 public 
+no var to send trap
+Trap recieved at Thu Mar 23 10:33:07 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "TROUBLE.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 1
+10.1.0.184 162 public 
+no var to send trap
+Trap recieved at Thu Mar 23 10:33:19 2017new file 
+OID 1 is SNMPv2-SMI::enterprises.41717.10.1
+value is "bubbly.bth.se"
+OID 2 is SNMPv2-SMI::enterprises.41717.10.2
+value is 1
+10.1.0.184 162 public 
+no var to send trap
+Trap recieved at Thu Mar 23 10:33:24 2017
